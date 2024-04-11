@@ -1,0 +1,76 @@
+.services-container{
+    background-color: rgb(41, 41, 41);
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    color: white;
+    padding: 1.5rem;
+    margin: 0;
+    padding-left: 5rem;
+    margin-top: 6rem;
+    flex-direction: column;
+    
+    
+}
+
+.services-left{
+    /* border: 1px solid white; */
+    padding: 1.5rem;
+    width: 35%;
+}
+
+.services-right{
+    /* border: 1px solid white; */
+    width: 35%;
+    padding: 1rem;
+}
+
+.services-title{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(226, 148, 3);
+}
+
+.services-text{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+}
+
+
+.h2-services{
+    text-align: center;
+    color: rgb(226, 148, 3);
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.left-title{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.h2-service-section{
+    text-align: center;
+    margin: 2rem;
+    margin-bottom: 4rem;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(226, 148, 3);
+}
+
+.services-flex{
+    display: flex;
+    justify-content: space-around;
+}

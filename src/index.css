@@ -1,0 +1,13 @@
+:root {
+  background-color: #242424;
+  background-image: url(./assets/bg.jpg); 
+  background-attachment: fixed;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+
+

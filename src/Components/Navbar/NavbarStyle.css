@@ -1,0 +1,31 @@
+.nav-container{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.list-container{
+    display: flex;
+    list-style: none;
+}
+
+.left-nav{
+    color: white;
+}
+
+.list-item{
+    color: rgb(226, 148, 3);
+    margin-right: 1rem;
+    font-size: 22px;
+    transition: 0.3s;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.list-item:hover{
+    cursor: pointer;
+    color: orange;
+}
