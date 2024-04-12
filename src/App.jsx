@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar/Navbar'
 import About from './Components/About/About'
 import Services from './Components/Services/Services'
 import Projects from './Components/Projects/Projects'
+import Contact from './Components/Contact/Contact'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Services />
       <Projects />
+      <Contact />
     </>
   )
 }

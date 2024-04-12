@@ -12,7 +12,7 @@ function Navbar(){
             <div className='right-nav'>
                 <ul className='list-container'>
                     <a href="#services" className='list-item'><li>SERVICIOS</li></a>
-                    <li className='list-item'>PROYECTOS</li>
+                    <a href="#projects" className='list-item'><li>PROYECTOS</li></a>
                     <li className='list-item'>CONTACTO</li>
                 </ul>
             </div>
